@@ -3,7 +3,7 @@
 # Segunda dimensión: Días de la semana (7 días)
 # Tercera dimensión: Semanas (4 semanas)
 temperaturas = [
-    [   # QUITO
+    [   # CUENCA
         [   # Semana 1
             {"day": "Lunes", "temp": 17},
             {"day": "Martes", "temp": 20},
